@@ -9,7 +9,7 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!====master add,fix2 commit
 hello atguigu! hello git!
-hello atguigu! hello git!
+hello atguigu! hello git!--hf2commit
 hello atguigu! hello git!
 hello atguigu! hello git!hot-fix test2
 hello atguigu! hello git!
